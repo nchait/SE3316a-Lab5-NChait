@@ -1,0 +1,32 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "3316 Lab03",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "fetch": "^1.1.0",
+    "jquery": "^3.2.1",
+    "mongoose": "^4.12.6",
+    "validate.js": "^0.12.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinBaggio/SE3316_Lab03.git"
+  },
+  "author": "Austin Baggio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinBaggio/SE3316_Lab03/issues"
+  },
+  "homepage": "https://github.com/AustinBaggio/SE3316_Lab03#readme"
+}

@@ -1,0 +1,54 @@
+
+html{
+    background-color: skyblue;
+    font-family: verdana;
+
+}
+div{
+    background-color: skyblue; 
+    font-family: verdana;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    font-size: 12px;
+}
+.subHeader{
+    padding: 10px;
+    font-size: 36px;
+    font-family: verdana;
+    color: #fff;
+    text-align: center;
+}
+.header{
+    font-size:48px;
+    font-family: verdana;
+    color: #fff;
+    text-align: center;
+}
+
+button{
+    background-color: #fff;
+    font-family: verdana;
+    color: skyblue;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    text-align: center;
+    display:block; /* change this from inline-block */
+    width:20%; /* setting the width */
+    margin:0 auto; /* this will center  it */
+    position:relative;
+
+}
+input{
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    margin:0 auto; /* this will center  it */
+    display:block; /* change this from inline-block */
+    position:relative;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
